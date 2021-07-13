@@ -1,2 +1,3 @@
-# test
-test for git
+# language
+* c/c++
+* java
